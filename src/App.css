@@ -1,0 +1,14 @@
+.tag{
+    width: 100%;
+}
+
+.card{
+  text-align: center;
+  margin: 10px;
+}
+
+.cardImage{
+  width: 200px;
+  height: 350px;
+  object-fit: cover;
+}
